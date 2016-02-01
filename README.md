@@ -1,2 +1,3 @@
-# sketchback-issues
-Public issue tracking for Sketchback
+# Sketchback Issues
+
+Public issue tracking for [Sketchback](http://sketchback.co).
